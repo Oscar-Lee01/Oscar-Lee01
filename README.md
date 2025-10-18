@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oscar-Lee01
-- 👀 I’m interested in full stack software development 
-- 🌱 I’m currently learning Javascript, HTML, CSS and MERN STACK 
+- 👀 I’m interested in frontend, backend and full stack software development 
+- 🌱 I’m currently learning Javascript, HTML, CSS, Python and MERN STACK 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me : oscar.sky2329@gmail.com
 - 😄 Pronouns: He
